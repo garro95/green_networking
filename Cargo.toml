@@ -1,0 +1,9 @@
+[package]
+name = "green_networking"
+version = "0.1.0"
+authors = ["Gianmarco Garrisi <gianmarcogarrisi@tutanota.com>"]
+
+[dependencies]
+petgraph = "0.4"
+rand="0.5"
+quicli="0.3"
