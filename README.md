@@ -21,5 +21,5 @@ The optimization runs in **O(16N^2 + 4N^2logN) ~ O(N^2)**
 It has been developed together by:
 * Silvia Bova
 * Gianmarco Garrisi
-* Nicol Macaluso
+* Nicolò Macaluso
 * Ruben Monti
